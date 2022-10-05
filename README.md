@@ -4,8 +4,8 @@
 
     <table border="10" style="color: rgb(0, 0, 0);" >
         <tr>
-            <th>Telefon || Pamięć</th>
-            <th>Ram</th>
+            <th>Praca</th>
+            <th>Ocena</th>
 
         </tr>
         <tr>
