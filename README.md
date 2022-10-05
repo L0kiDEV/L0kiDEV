@@ -36,9 +36,5 @@
             <td>Tak</td>
             <td>6.53"</td>
         </tr>
-    </table border="5">
-
-   
-
-
-</body > </center>
+    </table>
+</center> </body> 
