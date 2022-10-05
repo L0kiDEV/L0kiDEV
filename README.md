@@ -3,7 +3,7 @@
 <body bgcolor="brown"> <center>
 
 
-    <table border="10" style="background-color:rgb(255, 115, 0); color: rgb(220, 255, 19);" >
+    <table border="10" style="background-color:rgb(187, 255, 28); color: rgb(0, 0, 0);" >
         <tr>
             <th>Telefon || Pamięć</th>
             <th>Ram</th>
