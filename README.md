@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html>
 <body bgcolor="brown"> <center>
 
 
-    <table border="10" style="background-color:rgb(187, 255, 28); color: rgb(0, 0, 0);" >
+    <table border="10" style="color: rgb(0, 0, 0);" >
         <tr>
             <th>Telefon || Pamięć</th>
             <th>Ram</th>
