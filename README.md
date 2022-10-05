@@ -2,7 +2,7 @@
 <body bgcolor="brown"> <center>
 
 
-    <table border="10" style="color: rgb(0, 0, 0);" >
+    <table border="10" width="420" style="color: rgb(0, 0, 0);" >
         <tr>
             <th>Praca</th>
             <th>Ocena</th>
