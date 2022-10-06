@@ -2,7 +2,7 @@
 <body bgcolor="brown"> <center>
 
 
-    <TABLE BORDER=10 WIDTH="50%">
+    <TABLE BORDER=10 WIDTH="25%">
         <tr>
             <th>Praca</th>
             <th>Ocena</th>
