@@ -4,7 +4,7 @@
 
     <table border="1" style="width: 500px; height: 150px;">
         <tr>
-            <th>Praca</th>
+            <th>Prace</th>
             <th>Ocena</th>
 
         </tr>
