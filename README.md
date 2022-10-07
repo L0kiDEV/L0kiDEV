@@ -2,7 +2,7 @@
 <body bgcolor="brown"> <center>
 
 
-    <table border="1" style="width: 500px; height: 150px;">
+    <table border="1" style="width: 300px; height: 150px;">
         <tr>
             <th>Prace</th>
             <th>Ocena</th>
