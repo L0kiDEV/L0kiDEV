@@ -15,12 +15,12 @@
 
         </tr>
                 <tr>
-            <th><a href="https://EasyPeasy.l0kidev.repl.co](https://Yeas.l0kidev.repl.co" target="_blank">Praca 2</a></th>
+            <th><a href="https://Yeas.l0kidev.repl.co" target="_blank">Praca 2</a></th>
             <td>6</td>
 
         </tr>
         <tr>
-            <th><a href="https://www.euro.com.pl/telefony-komorkowe/xiaomi-smartfon-redmi-10c-4-64-gra-gray-xiaomi.bhtml?gclid=EAIaIQobChMIt5LCqpSj-gIVC-qyCh0fWw0MEAQYASABEgLrAvD_BwE&gclsrc=aw.ds" target="_blank">Praca 3</a></th>
+            <th><a href="" target="_blank">Praca 3</a></th>
             <td>5</td>
 
         </tr>
