@@ -8,13 +8,9 @@
             <th>Ocena</th>
 
         </tr>
-        <tr>
-            <th><a href="https://allegro.pl/oferta/smartfon-xiaomi-redmi-8-4-64gb-czarny-12378411137" target="_blank">Praca 1</a></th>
-            <td>6 </td>
 
-        </tr>
         <tr>
-            <th><a href="https://allegro.pl/oferta/smartfon-xiaomi-redmi-note4-zloty-3-64gb-11314974149" target="_blank">Praca 3</a></th>
+            <th><a href="https://EasyPeasy.l0kidev.repl.co" target="_blank">Praca 3</a></th>
             <td>5</td>
 
         </tr>
