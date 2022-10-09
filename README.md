@@ -20,7 +20,7 @@
 
         </tr>
         <tr>
-            <th><a href="" target="_blank">Praca 3</a></th>
+            <th><a href="https://New.l0kidev.repl.co" target="_blank">Dodatek :)</a></th>
             <td>5</td>
 
         </tr>
