@@ -21,7 +21,7 @@
         </tr>
         <tr>
             <th><a href="https://New.l0kidev.repl.co" target="_blank">Dodatek :)</a></th>
-            <td>5</td>
+            <td>:)</td>
 
         </tr>
     </table>
