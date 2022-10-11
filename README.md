@@ -25,7 +25,7 @@
 
         </tr>
                 <tr>
-            <th><a href="https://Yes.l0kidev.repl.co" target="_blank">Dodatek :)</a></th>
+            <th><a href="https://Yes.l0kidev.repl.co" target="_blank">Dodatek Praca 3</a></th>
             <td>:)</td>
 
         </tr>
