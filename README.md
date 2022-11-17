@@ -20,14 +20,12 @@
 
         </tr>
         <tr>
-            <th><a href="https://New.l0kidev.repl.co" target="_blank">Dodatek :)</a></th>
+            <th><a href="https://New.l0kidev.repl.co" target="_blank">Nowość!</a></th>
+            <td>:)</td>
+        </tr>
+                       <tr>
+            <th><a href="https://Ksiazka.l0kidev.repl.co" target="_blank">Praca 4</a></th>
             <td>:)</td>
 
-        </tr>
-                <tr>
-            <th><a href="https://Yes.l0kidev.repl.co" target="_blank">Dodatek Praca 3</a></th>
-            <td>:)</td>
-
-        </tr>
     </table>
 </center> </body> 
