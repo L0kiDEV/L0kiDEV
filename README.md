@@ -26,6 +26,6 @@
                        <tr>
             <th><a href="https://Ksiazka.l0kidev.repl.co" target="_blank">Praca 4</a></th>
             <td>:)</td>
-
+        </tr>
     </table>
 </center> </body> 
