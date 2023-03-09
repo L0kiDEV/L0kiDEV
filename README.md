@@ -27,5 +27,7 @@
             <th><a href="https://Ksiazka.l0kidev.repl.co" target="_blank">Praca 4</a></th>
             <td>:)</td>
         </tr>
+        <th><a href="https://gra.l0kidev.repl.co" target="_blank">Praca Parallax</a></th>
+        <td>ok</td>
     </table>
 </center> </body> 
