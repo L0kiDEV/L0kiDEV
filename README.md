@@ -29,5 +29,8 @@
         </tr>
         <th><a href="https://gra.l0kidev.repl.co" target="_blank">Praca Parallax</a></th>
         <td>ok</td>
+        </tr>
+                <th><a href="https://amogus2.l0kidev.repl.co/" target="_blank">Praca Parallax</a></th>
+        <td>ok</td>
     </table>
 </center> </body> 
